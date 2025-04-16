@@ -6,9 +6,13 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "lucas-games.new_folder",
-	"name": "New folder",
-	"version": "v1.0.0",
+	"id": "lucas-games.geode-mod",
+	"name": "Geode mod",
+	"version": "v1.0.1",
 	"developer": "lucas-games",
-	"description": ""
+	"description": "Adds a button that tells you to go to source code."
+	"tags": ["joke"],
+	"links": {
+		"source": "https://github.com/lucas-games/geode-mod/"
+	}
 }
