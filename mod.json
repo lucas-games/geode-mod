@@ -11,8 +11,5 @@
 	"version": "v1.0.1",
 	"developer": "lucas-games",
 	"description": "Adds a button that tells you to go to source code."
-	"tags": ["joke"],
-	"links": {
-		"source": "https://github.com/lucas-games/geode-mod/"
-	}
+	"tags": ["joke"]
 }
