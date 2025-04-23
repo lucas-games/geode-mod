@@ -13,7 +13,7 @@ project(Newfolder VERSION 1.0.0)
 # Set up the mod binary
 add_library(${PROJECT_NAME} SHARED
     src/main.cpp
-    # Add any extra C++ source files here
+    src/main2.cpp
 )
 
 if (NOT DEFINED ENV{GEODE_SDK})
